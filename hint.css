@@ -28,6 +28,7 @@
 .hint, [data-hint] {
   position: relative;
   display: inline-block;
+  cursor: help;
   /**
    * tooltip arrow
    */
