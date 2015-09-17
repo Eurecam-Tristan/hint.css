@@ -312,14 +312,14 @@
 .hint--small:after {
    width: 200px; width: 12.5rem;
    word-wrap: break-word;
-   white-space: initial !important; }
+   white-space: initial; }
 
 .hint--med:after {
    width: 300px; width: 18.75rem;
    word-wrap: break-word;
-   white-space: initial !important; }
+   white-space: initial; }
 
 .hint--big:after {
    width: 450px; width: 28.125rem;
    word-wrap: break-word;
-   white-space: initial !important; }
+   white-space: initial; }
